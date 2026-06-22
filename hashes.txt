@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Esclavo de tu voz
+
+This log tracks the cryptographic history and versioning for the song **Esclavo de tu voz** (esclavo-de-tu-voz).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T23:12:31.196763 | `v1` | `38b32416201bc42e9612fd256d14181dcdb5bb6512831d8daf2e4ab110e8ceaa` | `9cbf998904ae2fb9c74d15cc67022a5dd42c3877893b22d85d3e47cfefdb6237` | `2026-06-22_esclavo-de-tu-voz-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
