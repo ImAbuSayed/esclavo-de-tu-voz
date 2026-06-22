@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/esclavo-de-tu-voz/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Esclavo de tu voz](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-de-tu-voz/) |
+| **Get License** | [Secure Licensing Rights for Esclavo de tu voz](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-de-tu-voz/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero perderme en la sombra de tu piel
+> Sabes que soy un adicto a tu nivel
+> Tu mirada me atrapa, me quita el control
+> Bailando en la noche, perdiendo la razón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
